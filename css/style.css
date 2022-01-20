@@ -16,7 +16,7 @@ body {
 /* Main content section */
 
 .main-content-section{
-padding: 100px 90px 100px 90px;
+padding: 30px 90px 100px 90px;
 
 }
 
@@ -220,7 +220,48 @@ margin: 15px 0 0 0;
 
 }
 
+/* Supplementary Education section */
 
+.my-supplementary-education-section{
+
+    margin: 15px 0 0 0;
+    }
+
+.main-content-title-supplementary-education{
+
+    margin: 40px 0 0 0;
+}
+
+.my-supplementary-education-place{
+
+    color: #FB6D3A;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 10px 0 10px 0;
+
+}
+
+.my-supplementary-education-profile{
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 0 0 10px 0;
+
+}
+
+.my-supplementary-education-experience-time{
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    margin: 10px 0 10px 0;
+
+}
 
 
 /* Sidebar section */
